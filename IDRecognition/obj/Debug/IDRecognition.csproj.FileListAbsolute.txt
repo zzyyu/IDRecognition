@@ -1,0 +1,10 @@
+D:\C#\IDRecognition\IDRecognition\bin\Debug\IDRecognition.exe.config
+D:\C#\IDRecognition\IDRecognition\bin\Debug\IDRecognition.exe
+D:\C#\IDRecognition\IDRecognition\bin\Debug\IDRecognition.pdb
+D:\C#\IDRecognition\IDRecognition\obj\Debug\IDRecognition.csprojResolveAssemblyReference.cache
+D:\C#\IDRecognition\IDRecognition\obj\Debug\IDRecognition.Properties.Resources.resources
+D:\C#\IDRecognition\IDRecognition\obj\Debug\IDRecognition.csproj.GenerateResource.Cache
+D:\C#\IDRecognition\IDRecognition\obj\Debug\IDRecognition.exe
+D:\C#\IDRecognition\IDRecognition\obj\Debug\IDRecognition.pdb
+D:\C#\IDRecognition\IDRecognition\bin\Debug\Newtonsoft.Json.dll
+D:\C#\IDRecognition\IDRecognition\obj\Debug\IDRecognition.MainForm.resources
